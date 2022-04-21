@@ -1,0 +1,10 @@
+.characters-list {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.characters-list div {
+  margin: 10px 10px;
+}
